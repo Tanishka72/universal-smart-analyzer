@@ -1,0 +1,13 @@
+text,label
+What is my loan due date?,loan_due_date
+Can you tell me my remaining balance?,loan_balance
+Hi there!,greeting
+When was my loan closed?,loan_close
+Hello! How are you?,greeting
+Tell me about my loan balance,loan_balance
+When is my next payment due?,loan_due_date
+My loan has been closed,loan_close
+Please check my loan status,loan_close
+What is the interest rate?,loan_balance
+Good morning!,greeting
+I want to close my account,loan_close
